@@ -13,4 +13,5 @@ A lightweight Go utility for retrying unreliable operations with configurable at
 ## Installation
 
 ```bash
-go get github.com/YOUR_USERNAME/retry-lib
+go get github.com/Gizaw-Agodo/retry-lib
+```
